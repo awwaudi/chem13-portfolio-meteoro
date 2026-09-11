@@ -1,0 +1,9 @@
+ai_use_disclosure_meteoro
+
+prompted "make me an infographic for taurine aligned with these rubrics. i also sent you a picture of the sample infographic. make it in a4 size, light pink (#FFD1DF color code) and white color theme. make it accurate and pls align it with my very first prompt with you where i gave you the literatures but this time add the things needed with regards to the rubrics"
+
+prompted "okaaaay very good, now make another infographic for methamphetamine make it in a4 size, Maroon (#550000 color code) and white color theme. make it accurate and pls align it with my very first prompt with you where i gave you the literatures but this time add the things needed with regards to the rubrics. make it creative yet college-like, not too girly, and still full of information"
+
+prompted "fix my apa citation intext"
+
+prompted "make me an infographic for adrenaline aligned with these rubrics. i also sent you a picture of the sample infographic. make it in a4 size, matcha green (#2E3D17 color code) and white color theme. make it accurate and pls align it with my very first prompt with you where i gave you the literatures but this time add the things needed with regards to the rubrics, make it college-like, and full of information, and make it really accurate pls. do not really copy the infographic i sent you, this is just an example our prof gave me. you can make ur own really js base on it. ty"
